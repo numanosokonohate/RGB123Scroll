@@ -51,4 +51,4 @@ BoadX 2 BoadY 2の場合のボードのつなぎ方はこんな感じ
 
 ライセンス
 ----------
-Copyright &copy; 2015 Numanohatenosoko
+Copyright &copy; 2015 Numanosokonohate
